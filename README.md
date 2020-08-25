@@ -3,4 +3,4 @@ WiFi enabled LED-strip controller built with the esp8266 using a RESTful API. *I
 There is a companion-App (https://github.com/MaxDroid42/led_controller_app) for it written using Flutter.
 
 ## TODO
-- [ ] add token-authentication
+- [ ] add token-authentication (https://github.com/MaxDroid42/esp8266_led_controller/issues/1)
